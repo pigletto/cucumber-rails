@@ -1,7 +1,7 @@
 = Cucumber-Rails
 
 Cucumber-Rails brings Cucumber to Rails2 and Rails3. It contains 2 generators - one
-for bootstrapping your Rails app for Cucumber, and a second one for generating features.
+for bootstrapping your Rails app for Cucumber, and a second one for generating features. test
 
 Cucumber-Rails also contains Cucumber Step Definitions that wrap Capybara or Webrat,
 giving you a head start for writing Cucumber features against your Rails app.
